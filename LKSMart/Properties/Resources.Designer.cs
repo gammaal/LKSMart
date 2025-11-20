@@ -63,6 +63,17 @@ namespace LKSMart.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Business_man_in_a_suit_white_transparent_background___Premium_AI_generated_image_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("Business_man_in_a_suit_white_transparent_background___Premium_AI-generated_image-" +
+                        "removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap download {
             get {
                 object obj = ResourceManager.GetObject("download", resourceCulture);
